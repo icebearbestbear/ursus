@@ -1,5 +1,5 @@
 # Ursus engraving object model
-## Foundation draft · schema 0.1
+## Foundation draft · schema 0.11
 
 **Purpose.** Define the editable graphic model for an engraving plate: what objects exist, how they are contained, how items attach to one another, and how the renderer resolves notation glyphs and styles.
 
